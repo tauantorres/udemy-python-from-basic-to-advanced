@@ -1,0 +1,2 @@
+[SUCCESS][Smartphone]: Samsung está ligado
+[ERROR][Smartphone]: Samsung está desligado
